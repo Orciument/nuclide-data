@@ -12,6 +12,11 @@ This Data should not to be used for any scientific work.
 I do not claim that this data is neither reliable, complete, or correct!
 So use it at your own risk!
 
+## Licence/Copyright
+
+As far as i am concerned you can to anything with the data that you want, 
+**but** this is not my data, so you should check the [iaea](https://nucleus.iaea.org/Pages/Others/Terms-Of-Use.aspx) Page on Copyright.
+
 ## Format/Syntax
 The JSON Element consists of the following fields (in this Order):
 | Name | Type   | Value                            |
