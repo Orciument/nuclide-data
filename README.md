@@ -3,7 +3,7 @@
 This repository includes a JSON Array containing 3367 Nuclides that should be pretty much all that are currently known in February 2023.
 The data is from [iaea.org](https://iaea.org), more on that under [Sources](https://github.com/Orciument/nuclide-data/edit/main/README.md#sources)
 
-I created this repository because I got frustrated when I needed this data for a personal Rust project because I could not find this data in a machine readable.
+I created this repository because I got frustrated when I needed this data for a personal Rust project because I could not find this data in a machine-readable format.
 So I decided to compile the data myself and publish it again to help people who need this data in the future. 
 
 ## Disclaimer 
